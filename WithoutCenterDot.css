@@ -4,8 +4,7 @@
     --accentColor: #3030ff;
     --accentColorRGB: 81, 0, 22;
     --accentColorHover: #6262fd;
-    --dotSize: 0.2rem;
-    
+    --dotSize: 0.2rem;   
 }
 
 .background[data-v-50a88834] {
@@ -360,7 +359,7 @@ hr[data-v-50a88834],
 }
 .card-cont[data-v-47a01a9a]:hover,
 .icon-btn[data-v-45658db6]:hover{
-    color: var(--accentColorHover);
+    color: yellow;
 }
 
 .select-mod[data-v-50a88834],
@@ -369,11 +368,41 @@ hr[data-v-50a88834],
 }
 .select-mod[data-v-50a88834]:hover,
 .select-region[data-v-50a88834]:hover{
-    color: var(--accentColorHover);
+    color: yellow;
 }
 .gun-name[data-v-b427fee8]{
     color: var(--accentColor);
 }
 .nickname[data-v-b427fee8]{
     color: var(--accentColorHover);
+}
+.mod[data-v-50a88834]:hover,
+.text[data-v-02c36fca],
+.clan-tag[data-v-26ce3560],
+.clan-tag[data-v-41938989],
+.clan-tag[data-v-f110cb4e],
+.label-primary[data-v-f110cb4e],
+.awards-span[data-v-f110cb4e],
+.top-name[data-v-0926e915],
+.active[data-v-3a66d112],
+.nav[data-v-3a66d112]:hover,
+.list-labels[data-v-8a6d4c66],
+.map-name[data-v-51c089b2],
+.champions-league[data-v-040b7087],
+.champions-scores[data-v-040b7087],
+.all-scores-label[data-v-040b7087],
+.primary[data-v-3bcb580a],
+.labels[data-v-3bcb580a],
+.disable[data-v-038aad28],
+.level-text[data-v-9dd62bd0],
+.header[data-v-2f6eb6f6],
+.stat-name[data-v-41938989],
+.progress-level-value[data-v-41938989],
+.label[data-v-b427fee8],
+.header[data-v-21e538bc],
+.primary[data-v-b427fee8],
+.head[data-v-f5d2b02e],
+.primary[data-v-2a5e9e8d],
+.primary[data-v-7f1c00bc] {
+    color: yellow !important;
 }
